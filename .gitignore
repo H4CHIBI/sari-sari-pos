@@ -1,0 +1,7 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Configuration & Secrets
+.env
+config/config.php
